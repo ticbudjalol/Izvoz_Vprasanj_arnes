@@ -1,6 +1,7 @@
 # 📝 Izluščanje vprašanj in odgovorov iz HTML datoteke
 
 To je enostavna Python aplikacija, ki iz ARNES KVIZ HTML datoteke izlušči vsa vprašanja in pravilne odgovore ter jih shrani v `.txt` datoteko.
+Dodatna vprašanja in predlogi posodobitve: https://github.com/ticbudjalol/Izvoz_Vprasanj_arnes/issues
 
 ---
 
